@@ -1,2 +1,0 @@
-# s2bimJsonToMesh
- 
